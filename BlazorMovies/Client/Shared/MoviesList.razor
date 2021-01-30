@@ -1,0 +1,26 @@
+﻿@inject IJSRuntime jsRuntime
+
+<div class="movies-container">
+    <GenericList List="Movies">
+        <ElementTemplate Context="movie">
+            <IndividualMovie Movie="movie" DeleteMovie="DeleteMovie" />
+        </ElementTemplate>
+    </GenericList>
+</div>
+
+@code {
+    [Parameter] public List<Movie> Movies { get; set; }
+
+    Movie movieToBeDeleted;
+
+    private async Task DeleteMovie(Movie movie)
+    {
+        await jsRuntime.MyFunction("custom message");
+        var confirmed = await jsRuntime.Confirm($"Are you sure you want to delete {movie.Title}?");
+
+        if (confirmed)
+        {
+            Movies.Remove(movie);
+        }
+    }
+}

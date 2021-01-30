@@ -1,0 +1,12 @@
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.deps.json
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\ref\BlazorMovies.Shared.dll
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.pdb
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csprojAssemblyReference.cache
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfo.cs
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.dll
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\ref\BlazorMovies.Shared.dll
+C:\Users\Trevor\Desktop\code\bm\BlazorMovies\ASP.NET Core 5\Module 4 - Routing\Start\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.pdb
